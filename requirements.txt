@@ -1,6 +1,6 @@
-streamlit==1.27.0
-openai==1.0.0
-pillow>=10.2.0
+streamlit
+openai==2.27.4
+pillow>=10.0.0
 pandas
 numpy
 
